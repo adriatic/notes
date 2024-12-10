@@ -8,6 +8,8 @@ This section consists of
 
   - [Create a cluster](https://www.mongodb.com/docs/atlas/tutorial/create-new-cluster/#create-a-cluster).
     - Start with [Install the Atlas CLI](https://www.mongodb.com/docs/atlas/cli/current/install-atlas-cli/); Installed **atlascli version: 1.33.0**
+    - To use [Atlas Administration API](https://www.mongodb.com/docs/atlas/configure-api-access/#get-started-with-the-atlas-administration-api), use the Oauth 2.0 Authentication, which requires [Client Credentials](https://www.oauth.com/oauth2-servers/access-tokens/client-credentials/) flow
+      - Start with [Grant Programmatic Access to Atlas](https://www.mongodb.com/docs/atlas/configure-api-access/#get-started-with-the-atlas-administration-api) - and continue to [Service Account Overview](https://www.mongodb.com/docs/atlas/api/service-accounts-overview/#service-accounts-overview)
 
 
 ---
