@@ -19,4 +19,6 @@ This section consists of
 - [Atlas Vector Search Quick Start](https://www.mongodb.com/docs/atlas/atlas-vector-search/tutorials/vector-search-quick-start/#atlas-vector-search-quick-start)
 - [Integrate Vector Search with AI Technologies](https://www.mongodb.com/docs/atlas/atlas-vector-search/ai-integrations/#integrate-vector-search-with-ai-technologies)
 
+---
+
 **C)** use [Buildship](https://docs.buildship.com/) an AI-powered visual backend builder that enables you to automate any complex workflow. BuildShip integrates with any tools like Stripe, Sendgrid, Whatsapp or AI model from OpenAI, Replicate etc or database like Firebase, Supabase, Postgres, MongoDB.
