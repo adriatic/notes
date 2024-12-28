@@ -32,6 +32,8 @@ This section consists of
 - [From Beginner to Advanced LLM Developer](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev)
 -
 
+---
+
 **F)** Learning from [SwirlAI Newsletter](https://www.newsletter.swirlai.com/)
 - [Building AI Agents from scratch - Part 1: Tool use](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part)
 - [Memory in Agent Systems](https://www.newsletter.swirlai.com/p/memory-in-agent-systems)
