@@ -22,3 +22,22 @@ This section consists of
 ---
 
 **C)** use [Buildship](https://docs.buildship.com/) an AI-powered visual backend builder that enables you to automate any complex workflow. BuildShip integrates with any tools like Stripe, Sendgrid, Whatsapp or AI model from OpenAI, Replicate etc or database like Firebase, Supabase, Postgres, MongoDB.
+
+---
+
+**D)** Learning from [Brilliant](https://brilliant.org/courses/)
+- [How LLMs work](https://brilliant.org/courses/how-llms-work/)
+
+**E)** Learning from [Towards AI](https://towardsai.net/): [Towards AI Academy](https://academy.towardsai.net/)
+- [From Beginner to Advanced LLM Developer](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev)
+-
+
+**F)** Learning from [SwirlAI Newsletter](https://www.newsletter.swirlai.com/)
+- [Building AI Agents from scratch - Part 1: Tool use](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part)
+- [Memory in Agent Systems](https://www.newsletter.swirlai.com/p/memory-in-agent-systems)
+- [Observability in LLMOps pipeline - Different Levels of Scale](https://www.newsletter.swirlai.com/p/observability-in-llmops-pipeline)
+- [What is AI Engineering?](https://www.newsletter.swirlai.com/p/what-is-ai-engineering)
+- 
+
+
+
