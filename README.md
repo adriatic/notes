@@ -28,6 +28,8 @@ This section consists of
 **D)** Learning from [Brilliant](https://brilliant.org/courses/)
 - [How LLMs work](https://brilliant.org/courses/how-llms-work/)
 
+---
+
 **E)** Learning from [Towards AI](https://towardsai.net/): [Towards AI Academy](https://academy.towardsai.net/)
 - [From Beginner to Advanced LLM Developer](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev)
 -
